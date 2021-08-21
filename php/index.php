@@ -19,7 +19,7 @@
     <!-- Nav bar -->
     <nav class="navbar py-2 navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">TSF BANK <img src="logo/logo.webp" alt="Bank" width="50" height="50"></a>
+            <a class="navbar-brand" href="#">NEW BANK <img src="logo/logo.webp" alt="Bank" width="50" height="50"></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -50,7 +50,7 @@
 
     <class class="welcome">
         <h2>
-            <img src="logo/friend.webp" alt="Bank" width="75" height="75" style="font-weight: bold;"> <strong>Welcoming you in the most trusted TSF Bank !</strong> <img src="logo/trust.webp" alt="Bank" width="75" height="75">
+            <img src="logo/friend.webp" alt="Bank" width="75" height="75" style="font-weight: bold;"> <strong>Welcoming you in the most trusted NEW Bank !</strong> <img src="logo/trust.webp" alt="Bank" width="75" height="75">
         </h2>
     </class>
 
