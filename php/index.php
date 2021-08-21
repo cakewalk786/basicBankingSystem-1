@@ -147,7 +147,7 @@
         <footer class="bg-light text-center text-lg-start">
             <!-- Copyright -->
             <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
-                © 2021 Copyright - Made with 🧡 by Sumit Vajarinkar :
+               
                 <a class="text-dark" href="https://www.thesparksfoundationsingapore.org/" target="_blank"> The Sparks
                     Foundation <img src="logo/tsf.png" alt="" width="40" height="35"></a>
             </div>
